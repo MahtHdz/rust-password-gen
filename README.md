@@ -24,7 +24,7 @@ This project is a simple command-line tool for generating random passwords. It a
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/MahtHdz/password-generator.git
    cd password-generator
 ```
 
