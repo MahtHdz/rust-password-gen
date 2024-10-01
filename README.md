@@ -1,6 +1,6 @@
 # Rust Password Generator
 
-This is a simple Rust script that generates random passwords.
+This is a simple Rust script that generates pseudorandom passwords.
 
 ## Overview
 
@@ -53,7 +53,7 @@ When you run the program, it will display a banner and prompt you to enter the f
 Example of running the program:
 
 ```bash
-$ ./password-generator
+./password-generator
 ```
 
 Sample interaction:
